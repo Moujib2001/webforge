@@ -1,0 +1,11 @@
+node_modules/
+frontend/node_modules/
+frontend/
+dist/
+build/
+*.lock
+package.json
+package-lock.json
+yarn.lock
+.env
+.env.*
